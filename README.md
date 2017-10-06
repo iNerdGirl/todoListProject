@@ -1,1 +1,1 @@
-To Do List Project with JQuery, HTML, and CSS
+To Do List Project with JQuery, HTML, and CSS 
